@@ -31,7 +31,7 @@ If the currency that you would like to exchange more than 10000 please return ne
 ## Prepare and test
 
 - Install [Node.js](https://nodejs.org/en/)
-- Clone this repository: `git clone https://github.com/SIARHEI-SMANTSAR/money-exchange.git`
+- Clone this repository: `git clone https://github.com/SIARHEI-SMANTSAR/new-money-exchange.git`
 - Run `npm install` in command line
 - Run `npm test` in command line
 - You will see the number of passing and failing tests
